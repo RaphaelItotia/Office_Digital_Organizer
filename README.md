@@ -10,8 +10,8 @@ A smart, automated system using **Google Forms**, **Google Sheets**, and **Googl
 - 📩 Automated Email Feedback (Approved / Rejected / Pending)
 - 📅 Google Calendar Event Sync for Approved Leaves
 - ✅ Admin Editable Status Columns in Sheets
-- 📌 Optional Daily Attendance Tracker
+- 📌 Daily Attendance Tracker
 - 🔄 Time-Triggered Script Automation
-- 📊 Dashboard Ready (Google Sheets Charts / Looker Studio)
+- 📊 Dashboard Ready (Google Sheets Charts)
 
 ---
