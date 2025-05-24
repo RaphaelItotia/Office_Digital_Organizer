@@ -94,7 +94,7 @@ Refer to the steps in the User Guide PDF or:
 </table>
 
 ## 📘 Documentation
-Download the Full [User Guide PDF]()
+Download the Full [User Guide PDF](Assets/Leave_Attendance_System_User_Guide.pdf)
 
 ## 👨‍💻 Author
 Raphael Itotia
