@@ -56,7 +56,7 @@ Refer to the steps in the User Guide PDF or:
 
 - Click Extensions > Apps Script
 
-- Paste contents from [sendLeaveFeedback.gs]() and [syncLeaveCalendar.gs]()
+- Paste contents from [sendLeaveFeedback.js](Scripts/sendLeaveFeedback.js) and [syncLeaveCalendar.js](syncLeaveCalendar.js)
 
 - Save and authorize permissions
 
