@@ -78,9 +78,6 @@ Refer to the steps in the User Guide PDF or:
 
 ## 📷 Screenshots
 
-Leave Request Form   Approval Email   Calendar Event
----
-
 <table>
   <tr>
     <td style="text-align: center;"> <p>Leave Request Form</p> ![Leave Request Form Screenshot](leave_request_form.png)
