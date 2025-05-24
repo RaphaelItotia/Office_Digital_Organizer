@@ -47,24 +47,32 @@ Refer to the steps in the User Guide PDF or:
 
 - Fields: Name, Email, Leave Type, Start/End Date, Reason
 
-Enable: Collect Email Addresses
+- Enable: Collect Email Addresses
 
-Link form to Google Sheets
+- Link form to Google Sheets
 
 ### 3. Paste Script into Apps Script
-Open your linked Google Sheet
+- Open your linked Google Sheet
 
-Click Extensions > Apps Script
+- Click Extensions > Apps Script
 
-Paste contents from sendLeaveFeedback.gs and syncLeaveCalendar.gs
+- Paste contents from [sendLeaveFeedback.gs]() and [syncLeaveCalendar.gs]()
 
-Save and authorize permissions
+- Save and authorize permissions
 
 ### 4. Set Triggers
-Go to Apps Script > Triggers
+- Go to Apps Script > Triggers
 
-Add triggers for both scripts:
+- Add triggers for both scripts:
 
-sendLeaveFeedback → Time-driven (e.g., hourly)
+- sendLeaveFeedback → Time-driven (e.g., hourly)
 
-syncLeaveCalendar → Time-driven (e.g., every 2 hours)
+- syncLeaveCalendar → Time-driven (e.g., every 2 hours)
+
+### 5. Test with Sample Data
+- Submit a test form
+
+- Update the Approval Status column
+
+- Watch the email & calendar automation in action
+
