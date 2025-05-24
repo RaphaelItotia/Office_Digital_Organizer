@@ -80,18 +80,21 @@ Refer to the steps in the User Guide PDF or:
 
 <table>
   <tr>
-    <td style="text-align: center;"> <p><b>Leave Request Form</b></p> ![Leave Request Form Screenshot](Assets/Screenshots/Leave_Form.PNG)
+    <td style="text-align: center;">
+      <p><b>Leave Request Form</b></p>
+      <img src="Assets/Screenshots/Leave_Form.PNG" alt="Leave Request Form Screenshot" style="max-width: 100%;">
     </td>
     <td style="text-align: center;">
       <p><b>Approval Email</b></p>
-      ![Approval Email Screenshot](Assets/Screenshots/GoogleAppr.png)
+      <img src="Assets/Screenshots/GoogleAppr.png" alt="Approval Email Screenshot" style="max-width: 100%;">
     </td>
     <td style="text-align: center;">
       <p><b>Calendar Event</b></p>
-      ![Calendar Event Screenshot](Assets/Screenshots/Event.PNG)
+      <img src="Assets/Screenshots/Event.PNG" alt="Calendar Event Screenshot" style="max-width: 100%;">
     </td>
   </tr>
 </table>
+
 
 ## 📘 Documentation
 Download the Full [User Guide PDF](Assets/Leave_Attendance_System_User_Guide.pdf)
