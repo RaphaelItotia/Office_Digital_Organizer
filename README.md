@@ -78,22 +78,31 @@ Refer to the steps in the User Guide PDF or:
 
 ## 📷 Screenshots
 
-<table>
+<table style="width: 100%;">
   <tr>
-    <td style="text-align: center; horizontal-align: top;">
-      <p><b>Leave Request Form</b></p>
-      <img src="Assets/Screenshots/Leave_Form.PNG" alt="Leave Request Form Screenshot" style="max-width: 100%;">
+    <td style="text-align: center; vertical-align: top;">
+      <p style="margin: 0;"><b>Leave Request Form</b></p>
     </td>
-    <td style="text-align: center; horizontal-align: top;">
-      <p><b>Approval Email</b></p>
-      <img src="Assets/Screenshots/GoogleAppr.png" alt="Approval Email Screenshot" style="max-width: 100%;">
+    <td style="text-align: center; vertical-align: top;">
+      <p style="margin: 0;"><b>Approval Email</b></p>
     </td>
-    <td style="text-align: center; horizontal-align: top;">
-      <p><b>Calendar Event</b></p>
-      <img src="Assets/Screenshots/Event.PNG" alt="Calendar Event Screenshot" style="max-width: 100%;">
+    <td style="text-align: center; vertical-align: top;">
+      <p style="margin: 0;"><b>Calendar Event</b></p>
+    </td>
+  </tr>
+  <tr>
+    <td style="text-align: center;">
+      <img src="Assets/Screenshots/Leave_Form.PNG" alt="Leave Request Form Screenshot" style="max-width: 100%; height: auto;">
+    </td>
+    <td style="text-align: center;">
+      <img src="Assets/Screenshots/GoogleAppr.png" alt="Approval Email Screenshot" style="max-width: 100%; height: auto;">
+    </td>
+    <td style="text-align: center;">
+      <img src="Assets/Screenshots/Event.PNG" alt="Calendar Event Screenshot" style="max-width: 100%; height: auto;">
     </td>
   </tr>
 </table>
+
 
 
 
