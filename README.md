@@ -76,3 +76,22 @@ Refer to the steps in the User Guide PDF or:
 
 - Watch the email & calendar automation in action
 
+## 📷 Screenshots
+
+Leave Request Form   Approval Email   Calendar Event
+---
+
+<table>
+  <tr>
+    <td style="text-align: center;"> <p>Leave Request Form</p> ![Leave Request Form Screenshot](leave_request_form.png)
+    </td>
+    <td style="text-align: center;">
+      <p>Approval Email</p>
+      ![Approval Email Screenshot](approval_email.png)
+    </td>
+    <td style="text-align: center;">
+      <p>Calendar Event</p>
+      ![Calendar Event Screenshot](calendar_event.png)
+    </td>
+  </tr>
+</table>
