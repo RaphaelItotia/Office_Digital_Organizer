@@ -40,4 +40,4 @@ A smart, automated system using **Google Forms**, **Google Sheets**, and **Googl
 
 ### 1. Clone or Download This Repository
 ```bash
-git clone https://github.com/yourusername/Leave-Attendance-System.git
+git clone https://github.com/RaphaelItotia/Office_Digital_Organizer.git
