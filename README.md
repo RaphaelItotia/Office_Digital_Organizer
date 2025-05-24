@@ -41,3 +41,30 @@ A smart, automated system using **Google Forms**, **Google Sheets**, and **Googl
 ### 1. Clone or Download This Repository
 ```bash
 git clone https://github.com/RaphaelItotia/Office_Digital_Organizer.git
+```
+### 2. Create the Google Form for Leave Requests
+Refer to the steps in the User Guide PDF or:
+
+- Fields: Name, Email, Leave Type, Start/End Date, Reason
+
+Enable: Collect Email Addresses
+
+Link form to Google Sheets
+
+### 3. Paste Script into Apps Script
+Open your linked Google Sheet
+
+Click Extensions > Apps Script
+
+Paste contents from sendLeaveFeedback.gs and syncLeaveCalendar.gs
+
+Save and authorize permissions
+
+### 4. Set Triggers
+Go to Apps Script > Triggers
+
+Add triggers for both scripts:
+
+sendLeaveFeedback → Time-driven (e.g., hourly)
+
+syncLeaveCalendar → Time-driven (e.g., every 2 hours)
