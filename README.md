@@ -98,6 +98,7 @@ Download the Full [User Guide PDF]()
 
 ## 👨‍💻 Author
 Raphael Itotia
+
 Automating business workflows using Google Apps Script, Forms, and low-code tools.
 
 ## 🌟 Contributions
