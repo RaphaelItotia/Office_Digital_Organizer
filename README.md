@@ -23,7 +23,7 @@ A smart, automated system using **Google Forms**, **Google Sheets**, and **Googl
 | `Leave_Attendance_System_User_Guide.pdf` | Full user guide for setting up the system |
 | `scripts/sendLeaveFeedback.js` | Script to send leave approval/rejection emails |
 | `scripts/syncLeaveCalendar.js` | Script to create calendar events for approved leaves |
-| `assets/screenshots/` | Optional screenshots folder for documentation |
+| `assets/screenshots/` | Screenshots folder for documentation |
 
 ---
 
