@@ -80,15 +80,15 @@ Refer to the steps in the User Guide PDF or:
 
 <table>
   <tr>
-    <td style="text-align: center;"> <p>Leave Request Form</p> ![Leave Request Form Screenshot](leave_request_form.png)
+    <td style="text-align: center;"> <p><b>Leave Request Form</b></p> ![Leave Request Form Screenshot](Assets/Screenshots/Leave_Form.PNG)
     </td>
     <td style="text-align: center;">
-      <p>Approval Email</p>
-      ![Approval Email Screenshot](approval_email.png)
+      <p><b>Approval Email</b></p>
+      ![Approval Email Screenshot](Assets/Screenshots/GoogleAppr.png)
     </td>
     <td style="text-align: center;">
-      <p>Calendar Event</p>
-      ![Calendar Event Screenshot](calendar_event.png)
+      <p><b>Calendar Event</b></p>
+      ![Calendar Event Screenshot](Assets/Screenshots/Event.PNG)
     </td>
   </tr>
 </table>
