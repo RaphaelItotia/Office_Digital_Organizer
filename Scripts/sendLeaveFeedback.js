@@ -10,7 +10,7 @@ function sendLeaveFeedback() {
   const nameCol = header.indexOf("Employee Name");
   const leaveCol = header.indexOf("Leave Type");
 
-  // ✅ Check if any column is missing
+  // Check if any column is missing
   if ([emailCol, statusCol, sentCol, nameCol, leaveCol].includes(-1)) {
     throw new Error("One or more required column headers are missing.");
   }
@@ -36,10 +36,10 @@ function sendLeaveFeedback() {
         continue; // Skip if status is not one of the expected values
       }
 
-      // ✅ Send email
+      // Send email
       GmailApp.sendEmail(email, subject, "", { htmlBody: htmlMessage });
 
-      // ✅ Update the "Feedback Status" column
+      // Update the "Feedback Status" column
       sheet.getRange(i + 1, sentCol + 1).setValue(status); // +1 to adjust from 0-indexed array to 1-based sheet
     }
   }
