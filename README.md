@@ -1,10 +1,10 @@
-# 📅 Leave & Attendance Management System with Email Automation and Calendar Sync
+#  Leave & Attendance Management System with Email Automation and Calendar Sync
 
 A smart, automated system using **Google Forms**, **Google Sheets**, and **Google Apps Script** to manage leave requests and attendance. This project also automates email feedback and integrates approved leaves with **Google Calendar**.
 
 ---
 
-## 🚀 Features
+##  Features
 
 - 📝 Online Leave Request Form via Google Forms
 - 📩 Automated Email Feedback (Approved / Rejected / Pending)
@@ -16,7 +16,7 @@ A smart, automated system using **Google Forms**, **Google Sheets**, and **Googl
 
 ---
 
-## 📂 Project Files
+##  Project Files
 
 | File/Folder | Description |
 |-------------|-------------|
@@ -27,7 +27,7 @@ A smart, automated system using **Google Forms**, **Google Sheets**, and **Googl
 
 ---
 
-## 🧰 Tools Used
+##  Tools Used
 
 - [Google Forms](https://forms.google.com)
 - [Google Sheets](https://sheets.google.com)
@@ -36,7 +36,7 @@ A smart, automated system using **Google Forms**, **Google Sheets**, and **Googl
 
 ---
 
-## 🛠️ Setup Instructions
+##  Setup Instructions
 
 ### 1. Clone or Download This Repository
 ```bash
@@ -76,7 +76,7 @@ Refer to the steps in the User Guide PDF or:
 
 - Watch the email & calendar automation in action
 
-## 📷 Screenshots
+##  Screenshots
 
 <table style="width: 100%;">
   <tr>
@@ -106,15 +106,15 @@ Refer to the steps in the User Guide PDF or:
 
 
 
-## 📘 Documentation
+##  Documentation
 Download the Full [User Guide PDF](Assets/Leave_Attendance_System_User_Guide.pdf)
 
-## 👨‍💻 Author
+##  Author
 Raphael Itotia
 
 Automating business workflows using Google Apps Script, Forms, and low-code tools.
 
-## 🌟 Contributions
+##  Contributions
 Feel free to fork, star, or contribute:
 
 - Add new features
