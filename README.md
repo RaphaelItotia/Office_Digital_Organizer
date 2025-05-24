@@ -92,3 +92,19 @@ Refer to the steps in the User Guide PDF or:
     </td>
   </tr>
 </table>
+
+## 📘 Documentation
+Download the Full [User Guide PDF]()
+
+## 👨‍💻 Author
+Raphael Itotia
+Automating business workflows using Google Apps Script, Forms, and low-code tools.
+
+## 🌟 Contributions
+Feel free to fork, star, or contribute:
+
+- Add new features
+
+- Improve the UI/UX of the forms
+
+- Add Slack/Email thread integrations
