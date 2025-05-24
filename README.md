@@ -80,15 +80,15 @@ Refer to the steps in the User Guide PDF or:
 
 <table>
   <tr>
-    <td style="text-align: center; vertical-align: top;">
+    <td style="text-align: center; horizontal-align: top;">
       <p><b>Leave Request Form</b></p>
       <img src="Assets/Screenshots/Leave_Form.PNG" alt="Leave Request Form Screenshot" style="max-width: 100%;">
     </td>
-    <td style="text-align: center; vertical-align: top;">
+    <td style="text-align: center; horizontal-align: top;">
       <p><b>Approval Email</b></p>
       <img src="Assets/Screenshots/GoogleAppr.png" alt="Approval Email Screenshot" style="max-width: 100%;">
     </td>
-    <td style="text-align: center; vertical-align: top;">
+    <td style="text-align: center; horizontal-align: top;">
       <p><b>Calendar Event</b></p>
       <img src="Assets/Screenshots/Event.PNG" alt="Calendar Event Screenshot" style="max-width: 100%;">
     </td>
